@@ -1,23 +1,43 @@
 .form-control {
+<<<<<<< HEAD
     margin: 1rem 0;
+=======
+  margin: 1rem 0;
+>>>>>>> Entire Project Change Commit
 }
 
 .form-control label,
 .form-control input,
 .form-control textarea {
+<<<<<<< HEAD
     display: block;
     width: 100%;
     margin-bottom: 0.25rem;
+=======
+  display: block;
+  width: 100%;
+  margin-bottom: 0.25rem;
+>>>>>>> Entire Project Change Commit
 }
 
 .form-control input,
 .form-control textarea {
+<<<<<<< HEAD
     border: 1px solid #a1a1a1;
     font: inherit;
     border-radius: 2px;
+=======
+  border: 1px solid #a1a1a1;
+  font: inherit;
+  border-radius: 2px;
+>>>>>>> Entire Project Change Commit
 }
 
 .form-control input:focus,
 .form-control textarea:focus {
+<<<<<<< HEAD
     outline-color: #00695c;
+=======
+  outline-color: #00695c;
+>>>>>>> Entire Project Change Commit
 }

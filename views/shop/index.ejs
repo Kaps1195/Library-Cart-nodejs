@@ -22,7 +22,12 @@
                             <p class="product__description"><%= product.description %></p>
                         </div>
                         <div class="card__actions">
+<<<<<<< HEAD
                             <button class="btn">Add to Cart</button>
+=======
+                                <a href="/products/<%= product._id %>" class="btn">Details</a>
+                            <%- include('../includes/add-to-cart.ejs', {product: product}) %>
+>>>>>>> Entire Project Change Commit
                         </div>
                     </article>
                 <% } %>
